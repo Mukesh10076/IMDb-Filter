@@ -118,4 +118,4 @@ python3 bot.py
 Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
-[![M2](https://telegra.ph/file/220318e01dc7ecc1ebfdd.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
+[![M2](https://telegra.ph/file/220318e01dc7ecc1ebfdd.jpg)](https://telegra.ph/file/2f176832b8d496ab9a493.jpg "Elon Musk")
